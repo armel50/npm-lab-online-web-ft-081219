@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/armel50/npm-lab-online-web-ft-081219#readme",
   "dependencies": {
-    "moment": "^2.24.0"
+    "moment": "^2.26.0"
   }
 }
